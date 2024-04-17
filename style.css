@@ -1,0 +1,15 @@
+body {background-color: aqua;
+}
+
+h2 {border-style: solid;
+border-color: red;
+border-width: 4px;
+}
+
+
+h1 {text-align: center;
+}
+h3 {border-style: solid;
+border-color: red;
+border-width: 4px;
+}
